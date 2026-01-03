@@ -16473,8 +16473,8 @@
                 "ShinyWither": 1.3,
                 "WitherTime": 1
 
-  }
-         ]
+            }
+        ]
     },
 "Hallow Knight": {
         "Type": "AOE",
@@ -16526,7 +16526,7 @@
                 "Wither": 5,
                 "ShinyWither": 1.3,
                 "WitherTime": 1
-}
+            }
         ]
     },
     "Ignited Chica": {
@@ -16565,7 +16565,7 @@
                 "Range": 45,
                 "Damage": 380,
                 "Cooldown": 1
-}
+            }
         ]
     },
     "Ignited Foxy": {
@@ -16604,7 +16604,7 @@
                 "Range": 25,
                 "Damage": 2300,
                 "Cooldown": 0.7
-}
+            }
         ]
     },
     "Ignited Bonnie": {
@@ -16643,7 +16643,7 @@
                 "Range": 35,
                 "Damage": 500,
                 "Cooldown": 0.05
-}
+            }
         ]
     },
     "Ignited Springtrap": {
@@ -16682,7 +16682,7 @@
                 "Range": 40,
                 "Damage": 13000,
                 "Cooldown": 0.5
-}
+            }
         ]
     },
     "W-Bot": {
@@ -16721,7 +16721,7 @@
                 "Range": 45,
                 "Damage": 21000,
                 "Cooldown": 0.4
- }
+            }
         ]
     },
     "Frosted Chica": {
